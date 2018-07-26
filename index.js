@@ -1,6 +1,6 @@
 // write your code below!
-const name = "joe"
-var name ="Susan"
+
+var Name ="Susan"
 var height = 39
 var message = ` ${name} is ${height} inches tall`
 
